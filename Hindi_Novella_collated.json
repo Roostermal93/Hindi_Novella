@@ -1,1 +1,14 @@
-ew0KICAgICJjb3VudCI6IDEsDQogICAgIm5leHQiOiBudWxsLA0KICAgICJwcmV2aW91cyI6IG51bGwsDQogICAgInJlc3VsdHMiOiBbDQogICAgICAgIHsNCiAgICAgICAgICAgICJpZCI6ICIzMmU0YzI1MC03OGE0LTQ1MjAtYWUyNy03ZGYyOTM1ZTI1MWEiLA0KICAgICAgICAgICAgImNvbGxlY3Rpb25JZCI6ICJIaW5kaSIsDQogICAgICAgICAgICAidHlwZSI6ICJOb3ZlbGxhIiwNCiAgICAgICAgICAgICJzdGF0dXMiOiAicHJpdmF0ZSIsDQogICAgICAgICAgICAidmlkZW9VcmwiOiAiaHR0cHM6Ly93d3cudGhlYXJ0b2Zkcm93bmluZy5jb20vQUlDb250ZW50L05vdmVsbGEvSGluZGkvMzJlNGMyNTAtNzhhNC00NTIwLWFlMjctN2RmMjkzNWUyNTFhLzMyZTRjMjUwLTc4YTQtNDUyMC1hZTI3LTdkZjI5MzVlMjUxYS5tcDQiDQogICAgICAgIH0NCiAgICBdDQp9
+{
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "32e4c250-78a4-4520-ae27-7df2935e251a",
+            "collectionId": "Hindi",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Hindi/Hindi_Novella/32e4c250-78a4-4520-ae27-7df2935e251a/32e4c250-78a4-4520-ae27-7df2935e251a_hi_Male.mp4"
+        }
+    ]
+}
